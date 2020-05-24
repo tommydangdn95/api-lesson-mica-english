@@ -1,0 +1,11 @@
+.vs/
+
+*/bin/
+*/obj/
+
+bin/
+obj/
+
+
+Mica.File.Api/Office/*
+.xlsx
